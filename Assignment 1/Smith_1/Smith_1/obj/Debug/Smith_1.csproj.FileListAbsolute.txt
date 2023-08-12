@@ -1,0 +1,10 @@
+C:\Users\Alexanderjsmith\Desktop\Assignment 1\Smith_1\Smith_1\bin\Debug\Smith_1.exe.config
+C:\Users\Alexanderjsmith\Desktop\Assignment 1\Smith_1\Smith_1\bin\Debug\Smith_1.exe
+C:\Users\Alexanderjsmith\Desktop\Assignment 1\Smith_1\Smith_1\bin\Debug\Smith_1.pdb
+C:\Users\Alexanderjsmith\Desktop\Assignment 1\Smith_1\Smith_1\obj\Debug\Smith_1.csprojAssemblyReference.cache
+C:\Users\Alexanderjsmith\Desktop\Assignment 1\Smith_1\Smith_1\obj\Debug\Smith_1.Form1.resources
+C:\Users\Alexanderjsmith\Desktop\Assignment 1\Smith_1\Smith_1\obj\Debug\Smith_1.Properties.Resources.resources
+C:\Users\Alexanderjsmith\Desktop\Assignment 1\Smith_1\Smith_1\obj\Debug\Smith_1.csproj.GenerateResource.cache
+C:\Users\Alexanderjsmith\Desktop\Assignment 1\Smith_1\Smith_1\obj\Debug\Smith_1.csproj.CoreCompileInputs.cache
+C:\Users\Alexanderjsmith\Desktop\Assignment 1\Smith_1\Smith_1\obj\Debug\Smith_1.exe
+C:\Users\Alexanderjsmith\Desktop\Assignment 1\Smith_1\Smith_1\obj\Debug\Smith_1.pdb
